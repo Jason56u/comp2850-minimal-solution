@@ -11,7 +11,6 @@ Variant: Keyboard + Mouse, No-JS
 | 14:56 | T0 | Tried Filter several times | performance |
 | 14:56 | T3 | Try adding a blank title | error-handling |
 | 14:57 | T3 | P3 then immediately added a valid title and successfully added the account | recovery |
-
 | 14:57 | T0 | The list refreshes to show new tasks | nojs-flow |
 | 14:57 | T4 | P3 successfully deleted the file on the first attempt | ux-flow |
 | 14:57 | T0 | The page was completely reloaded after deletion | nojs-flow |
@@ -19,7 +18,7 @@ Variant: Keyboard + Mouse, No-JS
 | 14:57 | T0 | The page refreshes to display the deletion results | nojs-flow |
 
 Debrief notes:
-- "The No-JS version works, but it reloads the whole page every time, it feels slow."
-- "Adding tasks is easy once P3 figured it out."
-- "It would be nicer if actions didn’t refresh the whole page."
-- "Deleting tasks works fine, but the page jumps because it reloads."
+- "P3 found the No-JS version slow because every action triggered a full page reload."
+- "P3 expected filtering to update automatically but was surprised it required manual reload in No-JS mode."
+- "P3 had some uncertainty around adding tasks, especially after trying to submit a blank title."
+- "Button text contrast is too low,so it is difficult to determine whether P3 chose the correct button when using Tab."

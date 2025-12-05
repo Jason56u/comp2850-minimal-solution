@@ -13,6 +13,7 @@ Variant: Mouse-only, JS-on
 | 14:28 | T4 | The deletion operation lacks an undo function, causing users to worry about accidental deletion | undo-missing |
 
 Debrief notes:
-- "Adding new tasks was smooth and fast."
-- "Filtering updated instantly,P2 tried several times and the results changed right away."
-- "After saving, P2 wasn’t totally sure it worked—the message is easy to miss."
+- "P2 did not describe any task as particularly difficult; all actions were completed smoothly."
+- "Filtering responded instantly, which P2 mentioned positively.However, P2 found the save confirmation surprisingly weak and easy to miss."
+- "After saving edits, P2 wasn’t fully sure the action had succeeded due to low-visibility feedback."
+- "No accessibility barriers mentioned.Perfect"

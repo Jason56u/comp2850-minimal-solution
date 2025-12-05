@@ -13,6 +13,7 @@ Variant: Keyboard-only, JS-on
 | 14:03 | T4 | Delete confirmation noticed after staring at page | feedback-visibility |
 
 Debrief notes:
-- "I wasn’t always sure when something saved."
-- "Delete was harder to reach with keyboard."
-- "Messages need to be more noticeable."
+- "P1 said that reaching the Delete button was the hardest because it required many Tab presses."
+- "P1 expected feedback to be more visible and was surprised when success messages were easy to miss."
+- "P1 wasn’t sure when edits or saves had worked because the confirmation message was too subtle."
+- "Keyboard navigation required many steps, especially for delete actions."

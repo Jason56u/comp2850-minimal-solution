@@ -52,7 +52,10 @@
     /* Override Pico.css button color for WCAG 1.4.3 AA compliance */
     button[type="submit"],
     button {
-      color: white !important; /* White text on blue background for better contrast */
+      background-color: #f0f8ff !important;
+      color: #003366 !important; /* color: white !important; White text on blue background for better contrast */
+      /*border: 2px solid #003366 !important;*/
+      font-weight: 600 !important;
     }
   </style>
 </head>
