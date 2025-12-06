@@ -1,4 +1,4 @@
-Session: P1 (sid=Test-P1)
+Session: P1 (sid=P1_a7f3)
 Date: 2025-12-4
 Variant: Keyboard-only, JS-on
 
@@ -14,6 +14,6 @@ Variant: Keyboard-only, JS-on
 
 Debrief notes:
 - "P1 said that reaching the Delete button was the hardest because it required many Tab presses."
-- "P1 expected feedback to be more visible and was surprised when success messages were easy to miss."
+- "P1 said that when the focus on the chosen button,it's hard to distinguish if it real select the button."
 - "P1 wasn’t sure when edits or saves had worked because the confirmation message was too subtle."
 - "Keyboard navigation required many steps, especially for delete actions."

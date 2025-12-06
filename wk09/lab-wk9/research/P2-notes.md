@@ -1,4 +1,4 @@
-Session: P2 (sid=Test-P2)
+Session: P2 (sid=P2_9d2e)
 Date: 2025-12-4
 Variant: Mouse-only, JS-on
 
