@@ -1,0 +1,6 @@
+finding,data_source,observation,wcag,impact,inclusion,effort,priority
+Keyboard users miss success feedback,P1 notes 14:02–14:03 + metrics.csvL3-L13, P1:"I wasn't sure it saved",4.1.3 Status Messages (Level AA),4,4,2,6
+Mouse users submit blank titles frequently,P3 metrics L39 (validation_error),P3:“Clicked too fast—didn’t realise it was empty”,3.3.1 Error Identification (A),3,3,2,4
+SR users miss some state-change announcements,P3 repeated T1/T3 actions,P3:“Not sure when the list updated”,4.1.3 Status Messages (AA),5,5,4,6
+Button text contrast is too low,P1 notes said it’s hard to distinguish the chosen button,P1 said that when the focus on the chosen button,it's hard todistinguish if it real select the button.
+blended into the background,1.4.3 Contrast (Minimum) – Level AA &2.4.7Focus Visible Level AA,4,4,2,6
