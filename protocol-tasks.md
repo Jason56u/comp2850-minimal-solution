@@ -8,25 +8,25 @@
 - **Linked to**: Story #S2(Easy Task Finding)
 
 ## Task 2: Edit Task
-- **Scenario**: The current task name is inaccurate.
+- **Scenario**: The current task name is inaccurate
 - **Action**: Edit the task “Buy milk” to “Buy oat milk”
-- **Success**: The updated title appears and confirmation is visible.
+- **Success**: The updated title appears and confirmation is visible
 - **Target**: Less than 20 seconds
-- **Linked to**: Story #S3(Clear Edit and Delete Controls)
+- **Linked to**: Story #S3(Clear Edit Controls)
 
 ## Task 3: Add Task
 - **Scenario**: You want to record a new reminder.
 - **Action**: Add a task titled “Buy milk”
-- **Success**: The task appears in the list and a confirmation is visible.
+- **Success**: The task appears in the list and a confirmation is visible
 - **Target**: Less than 20 seconds
 - **Linked to**: Story #S1(Reliable Task Creation)
 
 ## Task 4: Delete Task
-- **Scenario**: You have completed the task and want to remove it.
+- **Scenario**: You have completed the task and want to remove it
 - **Action**: Delete the task “Buy oat milk”
-- **Success**: The task disappears from the list.
+- **Success**: The task disappears from the list
 - **Target**: Less than 20 seconds
-- **Linked to**: Story #S3(Clear Edit and Delete Controls)
+- **Linked to**: Story #S4(Clear Delete Controls)
 
 ## Consent script (verbatim, with rights/withdrawal)
 # Informed Consent Protocol — Week 6 Peer Interviews
@@ -97,19 +97,25 @@ If you change your mind after the interview:
 # Job Stories — Week 6 Needs-Finding
 
 ## Story S1: Reliable Task Creation
-**Situation**: When I add a new task，
-**Motivation**: I want a clear and immediate confirmation that it was successfully created，
-**Outcome**: So I can quickly find the most time-sensitive tasks without scanning everything，
-**Underlying need**: Because unclear feedback makes users double-click or doubt whether their action worked.
+**Situation**: When I add a new task
+**Motivation**: I want a clear and immediate confirmation that it was successfully created
+**Outcome**: So I can quickly find the most time-sensitive tasks without scanning everything
+**Underlying need**: Because unclear feedback makes users double-click or doubt whether their action worked
 
 ## Story S2: Easy Task Finding (Filter)
-**Situation**: When my task list becomes long，
-**Motivation**: I want to quickly filter items by typing a keyword，
-**Outcome**: So I can find what I’m looking for without scanning everything，
-**Underlying need**: Because long lists create cognitive load and make important tasks harder to find.
+**Situation**: When my task list becomes long
+**Motivation**: I want to quickly filter items by typing a keyword
+**Outcome**: So I can find what I’m looking for without scanning everything
+**Underlying need**: Because long lists create cognitive load and make important tasks harder to find
 
-## Story S3: Clear Edit and Delete Controls
-**Situation**: When I want to update or delete a task,
+## Story S3: Clear Edit Controls
+**Situation**: When I want to update a task
 **Motivation**: I want buttons that clearly indicate which task they belong to
-**Outcome**: So I don’t accidentally act on the wrong item
-**Underlying need**: Because identical “edit” or “delete” buttons confuse both visual and screen-reader users.
+**Outcome**: So I can confidently modify the correct item without error
+**Underlying need**: Because identical “edit” buttons confuse both visual and screen-reader users
+
+## Story S4: Clear Delete Controls
+**Situation**: When I want to delete a task
+**Motivation**: I want the “delete” button to be unambiguously associated with that task and require a clear confirmation
+**Outcome**: So I can remove the task without fear of accidentally deleting the wrong one
+**Underlying need**: Because identical “delete” buttons are high-risk and can cause data loss if misidentified

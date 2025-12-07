@@ -1,0 +1,24 @@
+## Privacy and Ethics Statement
+I confirm all participant data is anonymous (session IDs use P1_xxxx format, not real names).
+I confirm all screenshots are cropped/blurred to remove PII (no names, emails, student IDs visible).
+I confirm all participants gave informed consent.
+I confirm that all results are real and not fabricated.
+I confirm this work is my own.
+
+1. Problem → P1-notes.md + before-contrast-issue.png
+P1 feedback: "P1 said that when the focus on the chosen button,it's hard to distinguish if it real select the button."
+
+Visual Evidence: Screenshots showing contrast of the focus indicator before the fix.
+WCAG Violation: 1.4.3 Contrast (Minimum) – Level AA, 2.4.7 Focus Visible (Level AA).
+
+2. Fix implementation → after-contrast-fix.png
+Solution Applied: Modify background-color: #f0f8ff !important; color: #003366 !important;
+
+3. Verification testing → P5-notes.md + P6-notes.md + report.png
+Participant Validation:
+P5 feedback: "The button improvements are obvious; the contrast between the text and background is excellent."
+P6 feedback: "The delete/filter/add button is now easier to find while focus on the button"
+
+Quantitative Results:
+Average Task 2 (Edit) Time: 6.2s → 3.0s
+WCAG 1.4.3 Contrast (Minimum) – Level AA, 2.4.7 Focus Visible (Level AA) status:Pass
